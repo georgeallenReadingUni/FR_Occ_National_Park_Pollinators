@@ -1,0 +1,13 @@
+Guild,n_species,total_species_year_zone_estimates,expected_total_estimates,mean_prop_expected,n_species_missing_any,median_years_with_any_estimate,median_zones_with_any_estimate
+Moths,327,23544,23544,1,0,24,3
+Butterflies,205,14760,14760,1,0,24,3
+Ants,20,1440,1440,1,0,24,3
+Hoverflies,18,1296,1296,1,0,24,3
+Bumblebees,16,1152,1152,1,0,24,3
+Wild Bees,12,864,864,1,0,24,3
+Other Flies,4,288,288,1,0,24,3
+Social Wasps,3,216,216,1,0,24,3
+Solitary Wasps,2,144,144,1,0,24,3
+Bee Flies,1,72,72,1,0,24,3
+Honey Bees,1,72,72,1,0,24,3
+Micro Wasps,1,72,72,1,0,24,3
