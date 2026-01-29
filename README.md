@@ -1,7 +1,8 @@
 # FR_Occ_National_Park_Pollinators
 R scripts, Output Files and Figures used in the spatial dataset generation, occupancy modelling and analysis of polliantor data from France's national parks. Project lead is George Allen. Research is part of a PhD project in collaboration with the University of Reading (UK), UK Centre for Ecology and Hydrology and POLLINIS (France).
 
-Scripts:
+
+# Scripts:
 
 # 1 - Multispecies distributional trends
 Script for calculating occupancy trends and composite growth rates for the full dataset across all years in each zone, as well as repeating this for the converged dataset and plotting together.
