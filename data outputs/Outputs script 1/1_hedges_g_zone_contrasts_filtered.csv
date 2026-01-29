@@ -1,0 +1,7 @@
+"n1","n2","g","ci_low","ci_high","metric","comparison","replicate_unit","note"
+999,999,-0.220893830383061,-0.30887727337974,-0.132910387386382,"Annual growth rate (%/yr) [FILTERED]","Buffer - Outside","Posterior draw","Uses MC composite draws as posterior samples of growth rate."
+999,999,1.0140290779088,0.920845913974115,1.10721224184349,"Annual growth rate (%/yr) [FILTERED]","Core - Buffer","Posterior draw","Uses MC composite draws as posterior samples of growth rate."
+999,999,0.885810045689633,0.793892586856554,0.977727504522712,"Annual growth rate (%/yr) [FILTERED]","Core - Outside","Posterior draw","Uses MC composite draws as posterior samples of growth rate."
+24,24,0.202678463899964,-0.370334175573028,0.775691103372956,"Composite occupancy (gm_median by Year) [FILTERED]","Buffer - Outside","Year","Uses yearly medians (one value per Zone-Year) to avoid pseudo-replication."
+24,24,-4.36453184211731,-5.41548598268383,-3.31357770155079,"Composite occupancy (gm_median by Year) [FILTERED]","Core - Buffer","Year","Uses yearly medians (one value per Zone-Year) to avoid pseudo-replication."
+24,24,-5.32591935418012,-6.54449174738051,-4.10734696097973,"Composite occupancy (gm_median by Year) [FILTERED]","Core - Outside","Year","Uses yearly medians (one value per Zone-Year) to avoid pseudo-replication."

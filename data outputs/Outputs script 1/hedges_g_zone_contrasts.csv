@@ -1,0 +1,7 @@
+"n1","n2","g","ci_low","ci_high","metric","comparison","replicate_unit","note"
+999,999,-1.01100351593667,-1.10415505597252,-0.917851975900814,"Annual growth rate (%/yr)","Buffer - Outside","Posterior draw","Uses Monte Carlo draws of composite growth rate between zones."
+999,999,-0.786933319229851,-0.877981366798863,-0.695885271660838,"Annual growth rate (%/yr)","Core - Buffer","Posterior draw","Uses Monte Carlo draws of composite growth rate between zones."
+999,999,-1.55039949717765,-1.65042949524768,-1.45036949910762,"Annual growth rate (%/yr)","Core - Outside","Posterior draw","Uses Monte Carlo draws of composite growth rate between zones."
+999,999,-1.00399085646208,-1.09706942087844,-0.910912292045721,"Composite % change 2000→2023","Buffer - Outside","Posterior draw","Uses Monte Carlo draws of % change between zones."
+999,999,-0.739315292556424,-0.829978672599234,-0.648651912513613,"Composite % change 2000→2023","Core - Buffer","Posterior draw","Uses Monte Carlo draws of % change between zones."
+999,999,-1.53964465873999,-1.63951476484322,-1.43977455263676,"Composite % change 2000→2023","Core - Outside","Posterior draw","Uses Monte Carlo draws of % change between zones."
