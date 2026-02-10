@@ -1,5 +1,6 @@
-<a href="https://handle.test.datacite.org/10.5072/zenodo.432112"><img src="https://sandbox.zenodo.org/badge/1145220184.svg" alt="DOI"></a>
-
+[<a href="https://handle.test.datacite.org/10.5072/zenodo.432112"><img src="https://sandbox.zenodo.org/badge/1145220184.svg" alt="DOI"></a>
+](https://zenodo.org/badge/1145220184.svg
+)
 
 # FR_Occ_National_Park_Pollinators
 R scripts, Output Files and Figures used in the spatial dataset generation, occupancy modelling and analysis of polliantor data from France's national parks. Project lead is George Allen. Research is part of a PhD project in collaboration with the University of Reading (UK), UK Centre for Ecology and Hydrology and POLLINIS (France).
