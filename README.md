@@ -1,8 +1,4 @@
-[<a href="https://handle.test.datacite.org/10.5072/zenodo.432112"><img src="https://sandbox.zenodo.org/badge/1145220184.svg" alt="DOI"></a>
-](https://zenodo.org/badge/1145220184.svg
-)
-
-https://zenodo.org/badge/1145220184.svg
+https://doi.org/10.5281/zenodo.18596191
 
 
 # FR_Occ_National_Park_Pollinators
